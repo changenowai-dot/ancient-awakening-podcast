@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/ancient-awakening-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <copyright>© 2026 Ancient Awakening</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 01:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:22:09 +0000</lastBuildDate>
     <description>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</description>
     <itunes:summary>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</itunes:summary>
     <itunes:author>Ancient Awakening</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="changenowai@proton.me">yes</podcast:locked>
+    <item>
+      <title>The Calcified Antenna: How to Reclaim Your Brain's Hidden Portal</title>
+      <itunes:title>The Calcified Antenna: How to Reclaim Your Brain's Hidden Portal</itunes:title>
+      <link>https://youtu.be/RzJGNV-RMvE</link>
+      <description><![CDATA[<p>Deep within the geometric center of your brain sits a microscopic organ shaped like a tiny pinecone: the pineal gland. For thousands of years, ancient civilizations spoke of this organ as the bridge between the physical world and the infinite realms of spirit. In this episode, we explore the secret history, biology, and suppression of the Third Eye. Discover how modern lifestyle factors calcify this sacred antenna, and learn the exact biological mechanisms—from piezoelectric crystals to dark room therapy—that you can use to reactivate your inner vision and break free from external conditioning.</p><p>Watch the video: <a href="https://youtu.be/RzJGNV-RMvE">https://youtu.be/RzJGNV-RMvE</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Deep within the geometric center of your brain sits a microscopic organ shaped like a tiny pinecone: the pineal gland. For thousands of years, ancient civilizations spoke of this organ as the bridge between the physical world and the infinite realms of spirit. In this episode, we explore the secret history, biology, and suppression of the Third Eye. Discover how modern lifestyle factors calcify this sacred antenna, and learn the exact biological mechanisms—from piezoelectric crystals to dark room therapy—that you can use to reactivate your inner vision and break free from external conditioning.</p><p>Watch the video: <a href="https://youtu.be/RzJGNV-RMvE">https://youtu.be/RzJGNV-RMvE</a></p>]]></content:encoded>
+      <enclosure url="https://github.com/changenowai-dot/ancient-awakening-podcast/releases/download/folgen/die-geheime-kraft-der-zirbeldruse-warum-mystiker-sie-das-dri-7b5b7db656.mp3" length="34910252" type="audio/mpeg"/>
+      <guid isPermaLink="false">die-geheime-kraft-der-zirbeldruse-warum-mystiker-sie-das-dri-7b5b7db656</guid>
+      <pubDate>Sun, 18 Oct 2026 02:21:58 +0000</pubDate>
+      <itunes:duration>1454</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Carl Jung and the Alchemical Blueprint of Human Awakening</title>
       <itunes:title>Carl Jung and the Alchemical Blueprint of Human Awakening</itunes:title>
@@ -83,6 +96,19 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>The Sacred Blueprint: Ancient Temples Encoded Inside Your Biology</title>
+      <itunes:title>The Sacred Blueprint: Ancient Temples Encoded Inside Your Biology</itunes:title>
+      <link>https://youtu.be/_mtzSgs7vSM</link>
+      <description><![CDATA[<p>Long before stone monuments were erected, ancient mystery schools understood that the human body is the true cosmic architecture. From the sacred measurements of Egyptian temples to the geometry of your central nervous system, this episode unveils the suppressed connection between your physical biology and the macrocosm. Reclaim your internal sovereignty and discover why the sanctuary was never built of stone.</p><p>Watch the video: <a href="https://youtu.be/_mtzSgs7vSM">https://youtu.be/_mtzSgs7vSM</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Long before stone monuments were erected, ancient mystery schools understood that the human body is the true cosmic architecture. From the sacred measurements of Egyptian temples to the geometry of your central nervous system, this episode unveils the suppressed connection between your physical biology and the macrocosm. Reclaim your internal sovereignty and discover why the sanctuary was never built of stone.</p><p>Watch the video: <a href="https://youtu.be/_mtzSgs7vSM">https://youtu.be/_mtzSgs7vSM</a></p>]]></content:encoded>
+      <enclosure url="https://github.com/changenowai-dot/ancient-awakening-podcast/releases/download/folgen/das-mysterium-des-inneren-tempels-warum-der-mensch-als-abbil-ec0de90151.mp3" length="31733036" type="audio/mpeg"/>
+      <guid isPermaLink="false">das-mysterium-des-inneren-tempels-warum-der-mensch-als-abbil-ec0de90151</guid>
+      <pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>1322</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Your Flesh Conceals an Untouched Body of Pure Light</title>
       <itunes:title>Your Flesh Conceals an Untouched Body of Pure Light</itunes:title>
       <link>https://youtu.be/nzAdwO7G2oU</link>
@@ -92,6 +118,58 @@
       <guid isPermaLink="false">das-geheimnis-des-astralkorpers-was-alte-traditionen-uber-da-2074e96ab7</guid>
       <pubDate>Tue, 13 Oct 2026 11:00:00 +0000</pubDate>
       <itunes:duration>1425</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Your Sudden Collapse Is an Ancient Initiation into Sovereignty</title>
+      <itunes:title>Your Sudden Collapse Is an Ancient Initiation into Sovereignty</itunes:title>
+      <link>https://youtu.be/lgMNPl648bI</link>
+      <description><![CDATA[<p>When everything you believed about yourself falls apart, you are not losing your mind. You are undergoing the Dark Night of the Soul—an ancient, systematic dismantling of the false ego. In this deep exploration, we uncover the suppressed alchemy of Nigredo, the psychological purpose of existential grief, and the timeless key to reclaiming your absolute sovereignty.</p><p>Watch the video: <a href="https://youtu.be/lgMNPl648bI">https://youtu.be/lgMNPl648bI</a></p>]]></description>
+      <content:encoded><![CDATA[<p>When everything you believed about yourself falls apart, you are not losing your mind. You are undergoing the Dark Night of the Soul—an ancient, systematic dismantling of the false ego. In this deep exploration, we uncover the suppressed alchemy of Nigredo, the psychological purpose of existential grief, and the timeless key to reclaiming your absolute sovereignty.</p><p>Watch the video: <a href="https://youtu.be/lgMNPl648bI">https://youtu.be/lgMNPl648bI</a></p>]]></content:encoded>
+      <enclosure url="https://github.com/changenowai-dot/ancient-awakening-podcast/releases/download/folgen/die-dunkle-nacht-der-seele-warum-spirituelles-erwachen-mit-e-a30e6851b2.mp3" length="22285484" type="audio/mpeg"/>
+      <guid isPermaLink="false">die-dunkle-nacht-der-seele-warum-spirituelles-erwachen-mit-e-a30e6851b2</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>928</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Suppressed Symbol Hidden Inside Your Spine</title>
+      <itunes:title>The Suppressed Symbol Hidden Inside Your Spine</itunes:title>
+      <link>https://youtu.be/_5BDzzvdreM</link>
+      <description><![CDATA[<p>Discover the profound esoteric meaning behind the ancient symbol of the serpent. Long before recorded history, mystery schools encoded the map of human consciousness and inner awakening into this universal image. Learn how centralized power structures inverted this knowledge into fear, why true answers are found exclusively within, and how mastering your inner energy allows you to shed old identities and step into total sovereignty.</p><p>Watch the video: <a href="https://youtu.be/_5BDzzvdreM">https://youtu.be/_5BDzzvdreM</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Discover the profound esoteric meaning behind the ancient symbol of the serpent. Long before recorded history, mystery schools encoded the map of human consciousness and inner awakening into this universal image. Learn how centralized power structures inverted this knowledge into fear, why true answers are found exclusively within, and how mastering your inner energy allows you to shed old identities and step into total sovereignty.</p><p>Watch the video: <a href="https://youtu.be/_5BDzzvdreM">https://youtu.be/_5BDzzvdreM</a></p>]]></content:encoded>
+      <enclosure url="https://github.com/changenowai-dot/ancient-awakening-podcast/releases/download/folgen/die-verborgene-bedeutung-der-schlange-warum-sie-in-so-vielen-f3434cbb9f.mp3" length="28039724" type="audio/mpeg"/>
+      <guid isPermaLink="false">die-verborgene-bedeutung-der-schlange-warum-sie-in-so-vielen-f3434cbb9f</guid>
+      <pubDate>Sun, 11 Oct 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>1168</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pythagoras and the Sacred Geometry of Consciousness</title>
+      <itunes:title>Pythagoras and the Sacred Geometry of Consciousness</itunes:title>
+      <link>https://youtu.be/jf6Qh3tWC8c</link>
+      <description><![CDATA[<p>Physical matter is an elaborate illusion concealing an invisible framework of divine sound, light, and living numbers. In this episode, we explore the suppressed teachings of the Pythagorean mystery school, tracing the cosmic progression from the Monad to the sacred Tetraktys. Discover how the Golden Ratio, cymatics, and the mystery of the sacred Zero mirror your internal psychology, liberating you from external noise and aligning your soul with the eternal Music of the Spheres.</p><p>Watch the video: <a href="https://youtu.be/jf6Qh3tWC8c">https://youtu.be/jf6Qh3tWC8c</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Physical matter is an elaborate illusion concealing an invisible framework of divine sound, light, and living numbers. In this episode, we explore the suppressed teachings of the Pythagorean mystery school, tracing the cosmic progression from the Monad to the sacred Tetraktys. Discover how the Golden Ratio, cymatics, and the mystery of the sacred Zero mirror your internal psychology, liberating you from external noise and aligning your soul with the eternal Music of the Spheres.</p><p>Watch the video: <a href="https://youtu.be/jf6Qh3tWC8c">https://youtu.be/jf6Qh3tWC8c</a></p>]]></content:encoded>
+      <enclosure url="https://github.com/changenowai-dot/ancient-awakening-podcast/releases/download/folgen/das-mysterium-der-heiligen-zahlen-was-pythagoras-uber-die-or-22b37b2194.mp3" length="42153452" type="audio/mpeg"/>
+      <guid isPermaLink="false">das-mysterium-der-heiligen-zahlen-was-pythagoras-uber-die-or-22b37b2194</guid>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>1756</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The 7 Hidden Hermetic Laws That Rule Your Reality</title>
+      <itunes:title>The 7 Hidden Hermetic Laws That Rule Your Reality</itunes:title>
+      <link>https://youtu.be/I9h2MoUWoAA</link>
+      <description><![CDATA[<p>Ein uraltes Prinzip besagt, dass deine äußere Realität nur der Schatten deiner inneren Gedanken ist. Die hermetischen Meister wussten, wie man die Gesetze des Kosmos bewusst lenkt, anstatt von ihnen gesteuert zu werden. Erfahre, wie die sieben hermetischen Prinzipien dein Bewusstsein, deine Schwingung und deine tägliche Realität formen. Ein tiefer Blick in das verbotene Wissen des Kybalion, verbunden mit moderner Tiefenpsychologie.</p><p>Watch the video: <a href="https://youtu.be/I9h2MoUWoAA">https://youtu.be/I9h2MoUWoAA</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Ein uraltes Prinzip besagt, dass deine äußere Realität nur der Schatten deiner inneren Gedanken ist. Die hermetischen Meister wussten, wie man die Gesetze des Kosmos bewusst lenkt, anstatt von ihnen gesteuert zu werden. Erfahre, wie die sieben hermetischen Prinzipien dein Bewusstsein, deine Schwingung und deine tägliche Realität formen. Ein tiefer Blick in das verbotene Wissen des Kybalion, verbunden mit moderner Tiefenpsychologie.</p><p>Watch the video: <a href="https://youtu.be/I9h2MoUWoAA">https://youtu.be/I9h2MoUWoAA</a></p>]]></content:encoded>
+      <enclosure url="https://github.com/changenowai-dot/ancient-awakening-podcast/releases/download/folgen/die-7-hermetischen-gesetze-warum-die-alten-meister-die-welt-570506d8fe.mp3" length="32377042" type="audio/mpeg"/>
+      <guid isPermaLink="false">die-7-hermetischen-gesetze-warum-die-alten-meister-die-welt-570506d8fe</guid>
+      <pubDate>Fri, 09 Oct 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>1348</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
