@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/ancient-awakening-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <copyright>© 2026 Ancient Awakening</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 09:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:28:13 +0000</lastBuildDate>
     <description>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</description>
     <itunes:summary>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</itunes:summary>
     <itunes:author>Ancient Awakening</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="changenowai@proton.me">yes</podcast:locked>
+    <item>
+      <title>Carl Jung and the Biological Reality of Inner Divinity</title>
+      <itunes:title>Carl Jung and the Biological Reality of Inner Divinity</itunes:title>
+      <link>https://youtu.be/lVXUTanMLic</link>
+      <description><![CDATA[<p>In 1959, Carl Gustav Jung was asked if he believed in God. His reply changed spiritual history: &#x27;I don&#x27;t need to believe. I know.&#x27; In this episode, we unpack Jung&#x27;s profound empirical map of the human psyche. Discover why institutions spent centuries conditioning you to project your sacred power outward, what Jung documented in his private Red Book, and how the Archetype of the Self reveals the living divinity already rooted in your biology. Reclaim your inner authority and transition from borrowed dogma to direct inner knowledge.</p><p>Watch the video: <a href="https://youtu.be/lVXUTanMLic">https://youtu.be/lVXUTanMLic</a></p>]]></description>
+      <content:encoded><![CDATA[<p>In 1959, Carl Gustav Jung was asked if he believed in God. His reply changed spiritual history: &#x27;I don&#x27;t need to believe. I know.&#x27; In this episode, we unpack Jung&#x27;s profound empirical map of the human psyche. Discover why institutions spent centuries conditioning you to project your sacred power outward, what Jung documented in his private Red Book, and how the Archetype of the Self reveals the living divinity already rooted in your biology. Reclaim your inner authority and transition from borrowed dogma to direct inner knowledge.</p><p>Watch the video: <a href="https://youtu.be/lVXUTanMLic">https://youtu.be/lVXUTanMLic</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/ancient-awakening-audio-2026-10/carl-jung-and-god-what-the-psychologist-really-believed-abou-0e819e6308.mp3" length="12504651" type="audio/mpeg"/>
+      <guid isPermaLink="false">carl-jung-and-god-what-the-psychologist-really-believed-abou-0e819e6308</guid>
+      <pubDate>Mon, 19 Oct 2026 10:26:31 +0000</pubDate>
+      <itunes:duration>1041</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thirty-Three Vertebrae: The Suppressed Science of Your Biological Ascension</title>
       <itunes:title>Thirty-Three Vertebrae: The Suppressed Science of Your Biological Ascension</itunes:title>
