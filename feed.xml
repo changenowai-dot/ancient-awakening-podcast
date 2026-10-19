@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/ancient-awakening-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <copyright>© 2026 Ancient Awakening</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 16:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:22:55 +0000</lastBuildDate>
     <description>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</description>
     <itunes:summary>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</itunes:summary>
     <itunes:author>Ancient Awakening</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="changenowai@proton.me">yes</podcast:locked>
+    <item>
+      <title>Ancient Egypt Proved Your Heart Outweighs the Mind</title>
+      <itunes:title>Ancient Egypt Proved Your Heart Outweighs the Mind</itunes:title>
+      <link>https://youtu.be/o_iYbbL56fU</link>
+      <description><![CDATA[<p>Why did ancient Egyptian priests discard the human brain while sealing the heart in sacred linen? In this profound episode, we explore the mystery of the Hall of Two Truths, Thoth the cosmic scribe, and the Scales of Ma&#x27;at through the lens of modern neuroscience and depth psychology. Discover why the weighing of the heart is not an afterlife myth, but an exact description of your heart&#x27;s electromagnetic resonance occurring right now in this very moment. Learn how to shed subconscious guilt, dissolve energetic density, and reclaim your inner sovereignty.</p><p>Watch the video: <a href="https://youtu.be/o_iYbbL56fU">https://youtu.be/o_iYbbL56fU</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Why did ancient Egyptian priests discard the human brain while sealing the heart in sacred linen? In this profound episode, we explore the mystery of the Hall of Two Truths, Thoth the cosmic scribe, and the Scales of Ma&#x27;at through the lens of modern neuroscience and depth psychology. Discover why the weighing of the heart is not an afterlife myth, but an exact description of your heart&#x27;s electromagnetic resonance occurring right now in this very moment. Learn how to shed subconscious guilt, dissolve energetic density, and reclaim your inner sovereignty.</p><p>Watch the video: <a href="https://youtu.be/o_iYbbL56fU">https://youtu.be/o_iYbbL56fU</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/ancient-awakening-audio-2026-10/thoth-and-the-scales-of-ma-at-the-judgment-of-the-heart-7f7089ee06.mp3" length="15854071" type="audio/mpeg"/>
+      <guid isPermaLink="false">thoth-and-the-scales-of-ma-at-the-judgment-of-the-heart-7f7089ee06</guid>
+      <pubDate>Mon, 19 Oct 2026 17:20:16 +0000</pubDate>
+      <itunes:duration>1321</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Sacred Trickster: Why Sudden Chaos Liberates Your Psyche</title>
       <itunes:title>The Sacred Trickster: Why Sudden Chaos Liberates Your Psyche</itunes:title>
