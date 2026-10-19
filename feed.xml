@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/ancient-awakening-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <copyright>© 2026 Ancient Awakening</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 11:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:21:47 +0000</lastBuildDate>
     <description>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</description>
     <itunes:summary>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</itunes:summary>
     <itunes:author>Ancient Awakening</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="changenowai@proton.me">yes</podcast:locked>
+    <item>
+      <title>Thoth Left the Blueprint of Reality Inside Your Own Psyche</title>
+      <itunes:title>Thoth Left the Blueprint of Reality Inside Your Own Psyche</itunes:title>
+      <link>https://youtu.be/DghaW5iqL28</link>
+      <description><![CDATA[<p>Beneath the myths of golden chests and ancient curses lies a hidden science of consciousness preserved through millennia of suppression. In this episode, we unpack the legendary Book of Thoth, the metaphysical mechanics of Egyptian hieroglyphs, and the seven Hermetic laws that govern the universe. Discover how ancient initiates understood the human body as the ultimate temple and learn how to transmute internal emotional lead into sovereign spiritual clarity.</p><p>Watch the video: <a href="https://youtu.be/DghaW5iqL28">https://youtu.be/DghaW5iqL28</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Beneath the myths of golden chests and ancient curses lies a hidden science of consciousness preserved through millennia of suppression. In this episode, we unpack the legendary Book of Thoth, the metaphysical mechanics of Egyptian hieroglyphs, and the seven Hermetic laws that govern the universe. Discover how ancient initiates understood the human body as the ultimate temple and learn how to transmute internal emotional lead into sovereign spiritual clarity.</p><p>Watch the video: <a href="https://youtu.be/DghaW5iqL28">https://youtu.be/DghaW5iqL28</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/ancient-awakening-audio-2026-10/thoth-the-egyptian-god-of-wisdom-and-the-book-of-thoth-0a6b714e9b.mp3" length="16628654" type="audio/mpeg"/>
+      <guid isPermaLink="false">thoth-the-egyptian-god-of-wisdom-and-the-book-of-thoth-0a6b714e9b</guid>
+      <pubDate>Mon, 19 Oct 2026 12:20:16 +0000</pubDate>
+      <itunes:duration>1385</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Carl Jung and the Biological Reality of Inner Divinity</title>
       <itunes:title>Carl Jung and the Biological Reality of Inner Divinity</itunes:title>
