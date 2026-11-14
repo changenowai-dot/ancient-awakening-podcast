@@ -6,7 +6,7 @@
     <atom:link href="https://changenowai-dot.github.io/ancient-awakening-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <copyright>© 2026 Ancient Awakening</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 20:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:40:10 +0000</lastBuildDate>
     <description>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</description>
     <itunes:summary>Ancient wisdom for your awakening: Carl Jung, Hermes Trismegistus, Thoth, Gnosticism, lost gospels and the esoteric meaning of sacred texts – told calmly and in depth, for listening and reflection.</itunes:summary>
     <itunes:author>Ancient Awakening</itunes:author>
@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="changenowai@proton.me">yes</podcast:locked>
+    <item>
+      <title>Carl Jung and the Myth of the Wounded Healer</title>
+      <itunes:title>Carl Jung and the Myth of the Wounded Healer</itunes:title>
+      <link>https://youtu.be/Q8NUHPYi0QQ</link>
+      <description><![CDATA[<p>Watch the video: <a href="https://youtu.be/Q8NUHPYi0QQ">https://youtu.be/Q8NUHPYi0QQ</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Watch the video: <a href="https://youtu.be/Q8NUHPYi0QQ">https://youtu.be/Q8NUHPYi0QQ</a></p>]]></content:encoded>
+      <enclosure url="https://changenowai-dot.github.io/ancient-awakening-audio-2026-11/carl-jung-and-the-myth-of-the-wounded-healer-1efc6f8384.mp3" length="20268034" type="audio/mpeg"/>
+      <guid isPermaLink="false">carl-jung-and-the-myth-of-the-wounded-healer-1efc6f8384</guid>
+      <pubDate>Sat, 14 Nov 2026 21:39:19 +0000</pubDate>
+      <itunes:duration>1688</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Ancient Neural Bridge: Unifying the Twin Minds Inside Your Skull</title>
       <itunes:title>The Ancient Neural Bridge: Unifying the Twin Minds Inside Your Skull</itunes:title>
